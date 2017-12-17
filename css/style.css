@@ -48,7 +48,7 @@ img{
 	border-radius: 50%;
 }
 img:hover {
-	transform: rotateX(180deg);
+	transform: rotate(180degree);
 }
 
 h3{

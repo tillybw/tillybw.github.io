@@ -46,9 +46,10 @@ img{
 	padding: 4px;
 	width: 200px;
 	border-radius: 50%;
+	transition: transform 250ms;
 }
 img:hover {
-	transform: rotate(180degree);
+	transform: rotateZ(360deg);
 }
 
 h3{
